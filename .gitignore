@@ -286,3 +286,7 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/msvc/minimal.zip
+/msvc/minimal/_minimal.pyd
+/msvc/minimal/_minimal.ipdb
+/msvc/minimal/_minimal.iobj

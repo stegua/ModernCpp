@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="minimal.cpp" />
+    <ClCompile Include="minimal_wrap.cxx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="minimal.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="minimal.i" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{ec7ba480-5f12-41b7-9875-42b88b49e0e1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

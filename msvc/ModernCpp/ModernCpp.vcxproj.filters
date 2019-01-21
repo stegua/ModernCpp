@@ -26,5 +26,14 @@
     <ClInclude Include="..\..\include\iomanip.h">
       <Filter>include</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\include\auto_simd.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\yocto_logger.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\HelloThrust.h">
+      <Filter>include</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
